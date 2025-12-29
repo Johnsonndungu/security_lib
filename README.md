@@ -83,7 +83,6 @@ Total Hosts: 3 | Open Ports: 2 | Vulns: 1 | Risk: HIGH
 ## 🛡️ Safe Testing Targets
 - **Public**: `scanme.nmap.org` (Nmap test server)
 - **Local**: `127.0.0.1` or `localhost`
-- **Your IP**: `89.117.37.114` (from conversation)
 
 
 ## 🙌 Credits
